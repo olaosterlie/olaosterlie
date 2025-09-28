@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Ola Østerlie
-🎓 I'm a first-year **Software Engineer bachelor student** at **NTNU (Norwegian University of Science and Technology**.  
+🎓 I'm a first-year **Software Engineer bachelor student** at **NTNU Trondheim (Norwegian University of Science and Technology**.  
 💻 Interested in **backend development, data engineering, sports, and software design**.  
 🚀 Currently learning **Java, Python, SQL, and web technologies**.
 
