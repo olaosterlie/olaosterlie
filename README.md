@@ -13,7 +13,7 @@
 
 ## 📫 Connect With Me
 * 📧 Email: ola.osterlie@gmail.com
-* 💼 [LinkedIn](https://www.linkedin.com/in/ola-%C3%B8sterlie-45709b37b/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/olaosterlie)
 
 ---
 
